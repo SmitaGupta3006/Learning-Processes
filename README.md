@@ -1,6 +1,8 @@
 # Learning Processes
 
-Following learning methods are implemented: Supervised, Semi-Supervised, and Unsupervised Learning
+Following learning methods are implemented: 
+
+Supervised, Semi-Supervised, and Unsupervised Learning
 
 Spectral Clustering
 
